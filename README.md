@@ -68,3 +68,5 @@ This script will:
 
 **Note:**  
 You can control which models are downloaded by setting the corresponding flags (`download_docling_models`, `download_embedding_model`, etc.) in `status/config.json`.
+
+If the downloads are successful, an `offline_models` folder will be created in your project directory containing all the downloaded models.
