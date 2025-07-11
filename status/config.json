@@ -1,0 +1,28 @@
+{
+    "base_address": "/u/behrooz/internship_project",
+    "save_models_dir_name": "offline_models",
+    "docling_checkpoint_dir_name": "docling_checkpoint",
+    "docling_models_dir_name": "docling_models",
+    "gen_model_dir_name": "gen_model",
+    "embedding_model_dir_name": "embedding_model",
+    "vector_database_dir_name": "vector_database",
+    "image_caption_model_dir_name": "image_caption_model",
+    "download_docling_models": true,
+    "download_embedding_model": true,
+    "download_gen_model": true,
+    "download_image_caption_model": true,
+    "image_caption_model_config": {
+        "model_id": "Salesforce/blip-image-captioning-base"
+    },
+    "embedding_model_config": {
+        "model_id": "BAAI/bge-base-en-v1.5"
+    },
+    "gen_model_config": {
+        "model_id": "meta-llama/Llama-3.2-1B-Instruct"
+    },
+    "src_config": {
+        "source_address": "documents",
+        "source_name": "NVIDIA-2025-Annual-Report",
+        "page_range": [11, 12]
+    }
+} 

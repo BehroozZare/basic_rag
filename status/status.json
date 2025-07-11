@@ -1,0 +1,57 @@
+{
+    "models": {
+        "docling_models": {
+            "downloaded": true,
+            "path": "/u/behrooz/internship_project/offline_models/docling_models",
+            "last_updated": "2025-07-11T02:34:44.770371"
+        },
+        "embedding_model": {
+            "downloaded": true,
+            "path": "/u/behrooz/internship_project/offline_models/embedding_model",
+            "last_updated": "2025-07-11T02:34:48.428681"
+        },
+        "generation_model": {
+            "downloaded": true,
+            "path": "/u/behrooz/internship_project/offline_models/gen_model",
+            "last_updated": "2025-07-11T02:35:04.723347"
+        },
+        "image_caption_model": {
+            "downloaded": true,
+            "path": "/u/behrooz/internship_project/offline_models/image_caption_model",
+            "last_updated": "2025-07-11T02:01:02.690977"
+        }
+    },
+    "databases": {
+        "vector_database": {
+            "created": true,
+            "path": "/u/behrooz/internship_project/vector_database/milvus.db",
+            "last_updated": "2025-07-11T02:35:14.691375"
+        }
+    },
+    "checkpoints": {
+        "docling_checkpoint": {
+            "created": true,
+            "path": "/u/behrooz/internship_project/docling_checkpoint",
+            "last_updated": "2025-07-11T02:35:12.207934"
+        }
+    },
+    "processing": {
+        "pdf_extraction": {
+            "completed": true,
+            "source_name": "NVIDIA-2025-Annual-Report",
+            "page_range": [
+                11,
+                12
+            ],
+            "last_updated": "2025-07-11T02:35:12.207925"
+        },
+        "chunking_and_embedding": {
+            "completed": true,
+            "last_updated": "2025-07-11T02:35:14.691388"
+        }
+    },
+    "system_status": {
+        "last_run": "2025-07-11T02:35:14.695902",
+        "overall_status": "completed"
+    }
+}

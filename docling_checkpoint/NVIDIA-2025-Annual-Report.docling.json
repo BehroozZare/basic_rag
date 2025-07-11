@@ -1,0 +1,3904 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.5.0",
+  "name": "NVIDIA-2025-Annual-Report",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13740285317525771724,
+    "filename": "NVIDIA-2025-Annual-Report.pdf",
+    "uri": null
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "parent": null,
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "parent": null,
+    "children": [
+      {
+        "cref": "#/texts/0"
+      },
+      {
+        "cref": "#/texts/1"
+      },
+      {
+        "cref": "#/texts/2"
+      },
+      {
+        "cref": "#/texts/3"
+      },
+      {
+        "cref": "#/texts/4"
+      },
+      {
+        "cref": "#/texts/5"
+      },
+      {
+        "cref": "#/texts/6"
+      },
+      {
+        "cref": "#/texts/7"
+      },
+      {
+        "cref": "#/texts/8"
+      },
+      {
+        "cref": "#/texts/9"
+      },
+      {
+        "cref": "#/texts/10"
+      },
+      {
+        "cref": "#/texts/11"
+      },
+      {
+        "cref": "#/texts/12"
+      },
+      {
+        "cref": "#/texts/13"
+      },
+      {
+        "cref": "#/texts/14"
+      },
+      {
+        "cref": "#/texts/15"
+      },
+      {
+        "cref": "#/texts/16"
+      },
+      {
+        "cref": "#/texts/17"
+      },
+      {
+        "cref": "#/pictures/0"
+      },
+      {
+        "cref": "#/texts/27"
+      },
+      {
+        "cref": "#/texts/28"
+      },
+      {
+        "cref": "#/groups/0"
+      },
+      {
+        "cref": "#/texts/32"
+      },
+      {
+        "cref": "#/groups/1"
+      },
+      {
+        "cref": "#/texts/36"
+      },
+      {
+        "cref": "#/texts/37"
+      },
+      {
+        "cref": "#/texts/38"
+      },
+      {
+        "cref": "#/texts/39"
+      },
+      {
+        "cref": "#/texts/40"
+      },
+      {
+        "cref": "#/texts/41"
+      },
+      {
+        "cref": "#/texts/42"
+      },
+      {
+        "cref": "#/texts/43"
+      },
+      {
+        "cref": "#/texts/44"
+      },
+      {
+        "cref": "#/texts/45"
+      },
+      {
+        "cref": "#/texts/46"
+      },
+      {
+        "cref": "#/texts/47"
+      },
+      {
+        "cref": "#/texts/48"
+      },
+      {
+        "cref": "#/texts/49"
+      },
+      {
+        "cref": "#/groups/2"
+      },
+      {
+        "cref": "#/texts/53"
+      },
+      {
+        "cref": "#/texts/54"
+      },
+      {
+        "cref": "#/groups/3"
+      },
+      {
+        "cref": "#/texts/61"
+      },
+      {
+        "cref": "#/texts/62"
+      },
+      {
+        "cref": "#/texts/63"
+      },
+      {
+        "cref": "#/texts/64"
+      },
+      {
+        "cref": "#/texts/65"
+      },
+      {
+        "cref": "#/texts/66"
+      },
+      {
+        "cref": "#/texts/67"
+      },
+      {
+        "cref": "#/texts/68"
+      },
+      {
+        "cref": "#/texts/69"
+      },
+      {
+        "cref": "#/texts/70"
+      },
+      {
+        "cref": "#/texts/71"
+      },
+      {
+        "cref": "#/texts/72"
+      },
+      {
+        "cref": "#/groups/4"
+      },
+      {
+        "cref": "#/texts/75"
+      },
+      {
+        "cref": "#/texts/76"
+      },
+      {
+        "cref": "#/texts/77"
+      },
+      {
+        "cref": "#/texts/78"
+      },
+      {
+        "cref": "#/texts/79"
+      },
+      {
+        "cref": "#/texts/80"
+      },
+      {
+        "cref": "#/texts/81"
+      },
+      {
+        "cref": "#/texts/82"
+      },
+      {
+        "cref": "#/texts/83"
+      },
+      {
+        "cref": "#/groups/5"
+      },
+      {
+        "cref": "#/texts/87"
+      },
+      {
+        "cref": "#/texts/88"
+      },
+      {
+        "cref": "#/texts/89"
+      },
+      {
+        "cref": "#/texts/90"
+      },
+      {
+        "cref": "#/texts/91"
+      },
+      {
+        "cref": "#/texts/92"
+      },
+      {
+        "cref": "#/texts/93"
+      },
+      {
+        "cref": "#/pictures/1"
+      },
+      {
+        "cref": "#/texts/94"
+      },
+      {
+        "cref": "#/texts/95"
+      },
+      {
+        "cref": "#/texts/96"
+      },
+      {
+        "cref": "#/texts/97"
+      },
+      {
+        "cref": "#/texts/98"
+      },
+      {
+        "cref": "#/texts/99"
+      },
+      {
+        "cref": "#/groups/6"
+      },
+      {
+        "cref": "#/texts/101"
+      },
+      {
+        "cref": "#/groups/7"
+      },
+      {
+        "cref": "#/texts/103"
+      },
+      {
+        "cref": "#/texts/104"
+      },
+      {
+        "cref": "#/groups/8"
+      },
+      {
+        "cref": "#/texts/107"
+      },
+      {
+        "cref": "#/groups/9"
+      },
+      {
+        "cref": "#/texts/109"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/29"
+        },
+        {
+          "cref": "#/texts/30"
+        },
+        {
+          "cref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/33"
+        },
+        {
+          "cref": "#/texts/34"
+        },
+        {
+          "cref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/50"
+        },
+        {
+          "cref": "#/texts/51"
+        },
+        {
+          "cref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/55"
+        },
+        {
+          "cref": "#/texts/56"
+        },
+        {
+          "cref": "#/texts/57"
+        },
+        {
+          "cref": "#/texts/58"
+        },
+        {
+          "cref": "#/texts/59"
+        },
+        {
+          "cref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/73"
+        },
+        {
+          "cref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/84"
+        },
+        {
+          "cref": "#/texts/85"
+        },
+        {
+          "cref": "#/texts/86"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/100"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/105"
+        },
+        {
+          "cref": "#/texts/106"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/108"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 36.0,
+            "t": 718.8,
+            "r": 247.032,
+            "b": 667.375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Dear NVIDIANs and Stakeholders,",
+      "text": "Dear NVIDIANs and Stakeholders,",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 35.626,
+            "t": 641.88,
+            "r": 171.86,
+            "b": 593.06,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "A new industrial revolution is underwaytransforming energy into artificial intelligence.",
+      "text": "A new industrial revolution is underwaytransforming energy into artificial intelligence.",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 204.945,
+            "t": 641.88,
+            "r": 342.732,
+            "b": 606.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "And just as power plants fueled the industrial economy, AI factories will power the intelligence economy.",
+      "text": "And just as power plants fueled the industrial economy, AI factories will power the intelligence economy.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 35.72,
+            "t": 583.78,
+            "r": 175.256,
+            "b": 548.629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "The factory of this industrial revolution, an AI factory, is powered by computers created by NVIDIA.",
+      "text": "The factory of this industrial revolution, an AI factory, is powered by computers created by NVIDIA.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 36.172,
+            "t": 531.78,
+            "r": 184.547,
+            "b": 440.629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "For decades, computing advanced through hand-coded software executed on CPUs. That model has reached its limits. Today, computers learn to understand, reason, and solve problems using machine learning algorithms running on GPUs.",
+      "text": "For decades, computing advanced through hand-coded software executed on CPUs. That model has reached its limits. Today, computers learn to understand, reason, and solve problems using machine learning algorithms running on GPUs.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 35.72,
+            "t": 423.78,
+            "r": 184.498,
+            "b": 332.629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "AI is the new model of computing. This transformation is global, sweeping across every market and institution-from digital customer service and drug discovery to financial trading, software development, robotics, and self-driving cars.",
+      "text": "AI is the new model of computing. This transformation is global, sweeping across every market and institution-from digital customer service and drug discovery to financial trading, software development, robotics, and self-driving cars.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 35.424,
+            "t": 315.78,
+            "r": 187.28,
+            "b": 196.62900000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "Just as bits are the fundamental units of classical computing, tokens are the atomic units of digital intelligence-the symbols through which AI expresses thought. Each token is a fragment of meaning: a word, a piece of code, a strand of DNA. In sequence, they form thoughts, instructions, stories, and reasoning.",
+      "text": "Just as bits are the fundamental units of classical computing, tokens are the atomic units of digital intelligence-the symbols through which AI expresses thought. Each token is a fragment of meaning: a word, a piece of code, a strand of DNA. In sequence, they form thoughts, instructions, stories, and reasoning.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 36.348,
+            "t": 179.77999999999997,
+            "r": 172.241,
+            "b": 144.62900000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "NVIDIA computers are the thinking machines that generate these tokens, the currency of the AI age.",
+      "text": "NVIDIA computers are the thinking machines that generate these tokens, the currency of the AI age.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 35.945,
+            "t": 127.77999999999997,
+            "r": 182.324,
+            "b": 64.62900000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "A new type of infrastructure has emerged-AI factories. Just as earlier factories forged steel or assembled cars, AI factories generate tokens, transforming data into intelligence.",
+      "text": "A new type of infrastructure has emerged-AI factories. Just as earlier factories forged steel or assembled cars, AI factories generate tokens, transforming data into intelligence.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 204.945,
+            "t": 589.88,
+            "r": 358.18,
+            "b": 540.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "At NVIDIA, we are building this futuredesigning the engines of the AI age and creating the factories that will power the next wave of human progress.",
+      "text": "At NVIDIA, we are building this futuredesigning the engines of the AI age and creating the factories that will power the next wave of human progress.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 205.078,
+            "t": 520.98,
+            "r": 256.707,
+            "b": 511.16,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GTC 2025",
+      "text": "GTC 2025",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 205.172,
+            "t": 501.88,
+            "r": 355.431,
+            "b": 382.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "Our annual GTC conference-hailed as the 'Woodstock of AI'-is the launchpad of the AI industry. This year, nearly 27,000 attendees gathered in San Jose, with hundreds of thousands more joining online. They came from some 100 countries, more than 10,000 companies, and more than 400 of the world's most promising startups.",
+      "text": "Our annual GTC conference-hailed as the 'Woodstock of AI'-is the launchpad of the AI industry. This year, nearly 27,000 attendees gathered in San Jose, with hundreds of thousands more joining online. They came from some 100 countries, more than 10,000 companies, and more than 400 of the world's most promising startups.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 374.172,
+            "t": 641.88,
+            "r": 509.644,
+            "b": 592.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Blackwell to Rubin to Feynman; and the rise of the next wavesagentic AI and physical AI-beyond perception and generative AI.",
+      "text": "Blackwell to Rubin to Feynman; and the rise of the next wavesagentic AI and physical AI-beyond perception and generative AI.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 374.234,
+            "t": 575.88,
+            "r": 517.661,
+            "b": 512.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "We introduced new platforms and partnerships to bring AI to every enterprise and industry, and unveiled transformative technologies for robotics and autonomous machines.",
+      "text": "We introduced new platforms and partnerships to bring AI to every enterprise and industry, and unveiled transformative technologies for robotics and autonomous machines.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 374.18,
+            "t": 495.88,
+            "r": 499.052,
+            "b": 418.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "GTC 2025 made it unmistakenly clear: NVIDIA has transformed from a chip company to a fullstack computing platform, to data center-scale AI systems, to the AI infrastructure company.",
+      "text": "GTC 2025 made it unmistakenly clear: NVIDIA has transformed from a chip company to a fullstack computing platform, to data center-scale AI systems, to the AI infrastructure company.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 373.72,
+            "t": 401.88,
+            "r": 513.611,
+            "b": 366.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Today, companies and countries rely on NVIDIA to build the essential infrastructure of the AI age.",
+      "text": "Today, companies and countries rely on NVIDIA to build the essential infrastructure of the AI age.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 205.234,
+            "t": 365.88,
+            "r": 354.244,
+            "b": 302.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "GTC 2025 showcased the accelerating frontier of AI: reasoning and inferencetime scaling that will drive a 100x increase computing demand; our computing roadmap from NVIDIA",
+      "text": "GTC 2025 showcased the accelerating frontier of AI: reasoning and inferencetime scaling that will drive a 100x increase computing demand; our computing roadmap from NVIDIA",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 373.945,
+            "t": 349.88,
+            "r": 533.124,
+            "b": 314.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "In the decade ahead, trillions of dollars of AI infrastructure will be built, reshaping the $100 trillion global economy.",
+      "text": "In the decade ahead, trillions of dollars of AI infrastructure will be built, reshaping the $100 trillion global economy.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 391.33333333333337,
+            "t": 267.6666666666667,
+            "r": 406.66666666666663,
+            "b": 259.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "932",
+      "text": "932",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 290.3333333333333,
+            "t": 255.33333333333337,
+            "r": 306.3333333333333,
+            "b": 248.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1033",
+      "text": "1033",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 384.33333333333337,
+            "t": 243.33333333333337,
+            "r": 395.66666666666663,
+            "b": 237.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "333",
+      "text": "333",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 305.6666666666667,
+            "t": 236.66666666666663,
+            "r": 317.6666666666667,
+            "b": 232.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1332",
+      "text": "1332",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 381.0,
+            "t": 230.66666666666663,
+            "r": 392.33333333333337,
+            "b": 225.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1409",
+      "text": "1409",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 317.0,
+            "t": 223.33333333333337,
+            "r": 327.66666666666663,
+            "b": 218.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1509",
+      "text": "1509",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 375.66666666666663,
+            "t": 219.33333333333337,
+            "r": 385.0,
+            "b": 215.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1733",
+      "text": "1733",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 323.33333333333337,
+            "t": 215.66666666666663,
+            "r": 331.33333333333337,
+            "b": 213.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1033",
+      "text": "1033",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "cref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 374.33333333333337,
+            "t": 208.0,
+            "r": 381.66666666666663,
+            "b": 202.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1109",
+      "text": "1109",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.284,
+            "t": 738.0,
+            "r": 786.724,
+            "b": 715.18,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Financials and Strategic Positioning",
+      "text": "Financials and Strategic Positioning",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 656.72,
+            "t": 705.9,
+            "r": 816.521,
+            "b": 558.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            422
+          ]
+        }
+      ],
+      "orig": "This year marked a structural shift in the computing economy. Fiscal 2025 was not a transition, it was a break from the past. AI models moved beyond answering questions to reasoning through complex tasks. Inference workloads surpassed training. And AI infrastructure expanded beyond centralized data centers into factories, vehicles, hospitals, and homes around the world. This metamorphosis drove exceptional performance.",
+      "text": "This year marked a structural shift in the computing economy. Fiscal 2025 was not a transition, it was a break from the past. AI models moved beyond answering questions to reasoning through complex tasks. Inference workloads surpassed training. And AI infrastructure expanded beyond centralized data centers into factories, vehicles, hospitals, and homes around the world. This metamorphosis drove exceptional performance.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.163,
+            "t": 541.9,
+            "r": 808.626,
+            "b": 520.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "› Revenue more than doubled to $130.5 billion, up 114% year-over-year",
+      "text": "› Revenue more than doubled to $130.5 billion, up 114% year-over-year",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.163,
+            "t": 509.9,
+            "r": 787.332,
+            "b": 488.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "› Operating income rose 147% to $81.5 billion",
+      "text": "› Operating income rose 147% to $81.5 billion",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.163,
+            "t": 477.9,
+            "r": 813.189,
+            "b": 470.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "› Earnings per share grew 147% to $2.94",
+      "text": "› Earnings per share grew 147% to $2.94",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 656.72,
+            "t": 457.9,
+            "r": 769.342,
+            "b": 436.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "The fourth quarter capped a defining year:",
+      "text": "The fourth quarter capped a defining year:",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "cref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.163,
+            "t": 419.9,
+            "r": 802.173,
+            "b": 398.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "› $39.3 billion in revenue, up 78% year-over-year and 12% sequentially",
+      "text": "› $39.3 billion in revenue, up 78% year-over-year and 12% sequentially",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "cref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.163,
+            "t": 387.9,
+            "r": 764.555,
+            "b": 380.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "› $22.1 billion in net income",
+      "text": "› $22.1 billion in net income",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "cref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.163,
+            "t": 369.9,
+            "r": 797.232,
+            "b": 362.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "› $16.6 billion in operating cash flow",
+      "text": "› $16.6 billion in operating cash flow",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.284,
+            "t": 349.0,
+            "r": 801.263,
+            "b": 339.18,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "From Training to Reasoning",
+      "text": "From Training to Reasoning",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.438,
+            "t": 329.9,
+            "r": 797.09,
+            "b": 308.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Data center revenue reached $115.2 billion, up 142% year-over-year.",
+      "text": "Data center revenue reached $115.2 billion, up 142% year-over-year.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.287,
+            "t": 291.9,
+            "r": 816.006,
+            "b": 256.74800000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Q4 alone delivered $35.6 billion, including $11 billion in Blackwell revenue, the fastest product ramp in our company's history.",
+      "text": "Q4 alone delivered $35.6 billion, including $11 billion in Blackwell revenue, the fastest product ramp in our company's history.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 657.172,
+            "t": 239.89999999999998,
+            "r": 814.896,
+            "b": 162.74800000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "What began with training is now shifting toward real-time reasoning. Inference has become the dominant workload, and agentic systems are entering production across sovereign AI initiatives, Fortune 500 enterprises, and edge deployments.",
+      "text": "What began with training is now shifting toward real-time reasoning. Inference has become the dominant workload, and agentic systems are entering production across sovereign AI initiatives, Fortune 500 enterprises, and edge deployments.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 656.626,
+            "t": 143.0,
+            "r": 778.468,
+            "b": 120.18000000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Full Stack, End-to-End AI Infrastructure",
+      "text": "Full Stack, End-to-End AI Infrastructure",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 656.72,
+            "t": 110.89999999999998,
+            "r": 807.742,
+            "b": 61.74800000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        },
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 826.425,
+            "t": 738.0,
+            "r": 959.299,
+            "b": 716.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            145,
+            213
+          ]
+        }
+      ],
+      "orig": "The Blackwell platform integrates GPU, CPU, NVLink, Spectrum-X, and NVIDIA software into a unified system, optimized for every stage of AI, from pre-training and post-training to real-time reasoning and inference.",
+      "text": "The Blackwell platform integrates GPU, CPU, NVLink, Spectrum-X, and NVIDIA software into a unified system, optimized for every stage of AI, from pre-training and post-training to real-time reasoning and inference.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 825.945,
+            "t": 700.0,
+            "r": 983.119,
+            "b": 552.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "As AI factories become multi-billiondollar investments, the need for assured performance, reliability, and long-term support is critical. AI continues to advance and change at an incredible pace. With NVIDIA's leadership across every phase of AI, rich ecosystem, programmability, and generations of experience, customers can have complete confidence to scale to the largest infrastructures with us.",
+      "text": "As AI factories become multi-billiondollar investments, the need for assured performance, reliability, and long-term support is critical. AI continues to advance and change at an incredible pace. With NVIDIA's leadership across every phase of AI, rich ecosystem, programmability, and generations of experience, customers can have complete confidence to scale to the largest infrastructures with us.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 826.083,
+            "t": 536.0,
+            "r": 982.572,
+            "b": 388.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "We made tremendous progress this year. NVIDIA is now a full-stack AI company-spanning chips, systems, software, and AI models delivered through NVIDIA Inference Microservices (NIMs), a fully operational AI model packaged in a container. To accelerate deployment, we introduced NIMs, AI Blueprints, and the Nemotron model family, enabling enterprises across finance to healthcare to adopt AI faster.",
+      "text": "We made tremendous progress this year. NVIDIA is now a full-stack AI company-spanning chips, systems, software, and AI models delivered through NVIDIA Inference Microservices (NIMs), a fully operational AI model packaged in a container. To accelerate deployment, we introduced NIMs, AI Blueprints, and the Nemotron model family, enabling enterprises across finance to healthcare to adopt AI faster.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 826.172,
+            "t": 372.0,
+            "r": 981.288,
+            "b": 252.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "NVIDIA is an end-to-end AI infrastructure platform, from GPUs (Blackwell) and CPUs (Grace) to network processors (CX and Bluefield), scaleup NVLink switches, and scale-out networking with Quantum (InfiniBand) and Spectrum (Ethernet). Each is worldclass, highly differentiated, and deeply integrated with NVIDIA software.",
+      "text": "NVIDIA is an end-to-end AI infrastructure platform, from GPUs (Blackwell) and CPUs (Grace) to network processors (CX and Bluefield), scaleup NVLink switches, and scale-out networking with Quantum (InfiniBand) and Spectrum (Ethernet). Each is worldclass, highly differentiated, and deeply integrated with NVIDIA software.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 826.172,
+            "t": 236.0,
+            "r": 981.442,
+            "b": 116.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            342
+          ]
+        }
+      ],
+      "orig": "We've fundamentally redefined what we build. Instead of assembling AI systems from separately designed components, we now architect and design full-stack, end-to-end AI factories. Blackwell, Rubin, and Feynman aren't just chips, they're AI factories: purpose-built to scale, deeply optimized, and supported across their operational lifetimes.",
+      "text": "We've fundamentally redefined what we build. Instead of assembling AI systems from separately designed components, we now architect and design full-stack, end-to-end AI factories. Blackwell, Rubin, and Feynman aren't just chips, they're AI factories: purpose-built to scale, deeply optimized, and supported across their operational lifetimes.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 825.72,
+            "t": 100.0,
+            "r": 969.536,
+            "b": 64.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        },
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.172,
+            "t": 738.0,
+            "r": 1127.582,
+            "b": 646.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            111,
+            335
+          ]
+        }
+      ],
+      "orig": "Though we architect AI factories as a unit, we open the architectures to integrate seamlessly into the diverse environments of our customers, delivered by a global network of system makers across the supply chain. This enables a scale and velocity in deploying these oneand-a-half-ton AI supercomputers the world has never seen before.",
+      "text": "Though we architect AI factories as a unit, we open the architectures to integrate seamlessly into the diverse environments of our customers, delivered by a global network of system makers across the supply chain. This enables a scale and velocity in deploying these oneand-a-half-ton AI supercomputers the world has never seen before.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.078,
+            "t": 627.1,
+            "r": 1116.509,
+            "b": 604.28,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Operational Scale, Disciplined Investment",
+      "text": "Operational Scale, Disciplined Investment",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.234,
+            "t": 595.0,
+            "r": 1150.247,
+            "b": 503.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "We're investing at pace-with discipline, efficiency, and purpose. Operating expenses rose 45% year-over-year to $16.4 billion, reflecting sustained investment in engineering, compute infrastructure, our global supply chain, developers, and go-to-market partners.",
+      "text": "We're investing at pace-with discipline, efficiency, and purpose. Operating expenses rose 45% year-over-year to $16.4 billion, reflecting sustained investment in engineering, compute infrastructure, our global supply chain, developers, and go-to-market partners.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 994.945,
+            "t": 487.0,
+            "r": 1133.553,
+            "b": 395.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "AI demands massive infrastructure scale-more than silicon. It requires a full-stack ecosystem: software, systems, and a global supply chain capable of delivering end-to-end AI factories at incredible speed and scale. We ended the fiscal year with:",
+      "text": "AI demands massive infrastructure scale-more than silicon. It requires a full-stack ecosystem: software, systems, and a global supply chain capable of delivering end-to-end AI factories at incredible speed and scale. We ended the fiscal year with:",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.163,
+            "t": 379.0,
+            "r": 1150.979,
+            "b": 357.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "› $43.2 billion in cash, cash equivalents, and marketable securities",
+      "text": "› $43.2 billion in cash, cash equivalents, and marketable securities",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.163,
+            "t": 347.0,
+            "r": 1135.706,
+            "b": 339.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "› $64.1 billion in operating cash flow",
+      "text": "› $64.1 billion in operating cash flow",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.163,
+            "t": 329.0,
+            "r": 1149.658,
+            "b": 293.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "› $34.5 billion of cash returned to shareholders, including $33.7 billion in buybacks and $834 million in dividends",
+      "text": "› $34.5 billion of cash returned to shareholders, including $33.7 billion in buybacks and $834 million in dividends",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.284,
+            "t": 280.1,
+            "r": 1135.254,
+            "b": 270.28,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Engineering for Continuity",
+      "text": "Engineering for Continuity",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.234,
+            "t": 261.0,
+            "r": 1125.193,
+            "b": 197.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "We're operating in a dynamic environment-marked by shifting policies, evolving demand, and rapid technological adoption. Our model is designed for resilience:",
+      "text": "We're operating in a dynamic environment-marked by shifting policies, evolving demand, and rapid technological adoption. Our model is designed for resilience:",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.163,
+            "t": 181.0,
+            "r": 1130.728,
+            "b": 145.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "› Geographically diversified manufacturing across foundries, substrates, and systems makers",
+      "text": "› Geographically diversified manufacturing across foundries, substrates, and systems makers",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.163,
+            "t": 135.0,
+            "r": 1143.806,
+            "b": 113.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "› $30.8 billion in supply commitments to support customer continuity",
+      "text": "› $30.8 billion in supply commitments to support customer continuity",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 995.163,
+            "t": 103.0,
+            "r": 1154.94,
+            "b": 67.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "› Deep partnerships with Amazon, Cisco, Microsoft, Oracle, Google, CoreWeave, and others to scale across markets",
+      "text": "› Deep partnerships with Amazon, Cisco, Microsoft, Oracle, Google, CoreWeave, and others to scale across markets",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 36.163,
+            "t": 738.0,
+            "r": 163.264,
+            "b": 716.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "› Sovereign AI clusters in Japan, France, India, and Canada",
+      "text": "› Sovereign AI clusters in Japan, France, India, and Canada",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 36.163,
+            "t": 706.0,
+            "r": 168.159,
+            "b": 670.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "› Enterprise AI partners including Dell, HPE, Accenture, Deloitte, ServiceNow, SAP, and more",
+      "text": "› Enterprise AI partners including Dell, HPE, Accenture, Deloitte, ServiceNow, SAP, and more",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 36.163,
+            "t": 660.0,
+            "r": 164.65,
+            "b": 624.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "› Industrial AI partners including Cadence, Synopsys, Siemens, Foxconn, and more",
+      "text": "› Industrial AI partners including Cadence, Synopsys, Siemens, Foxconn, and more",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 36.091,
+            "t": 614.0,
+            "r": 174.892,
+            "b": 522.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "In the coming years, every company will operate AI factories they built or rent, and every country will build and operate AI factories as part of their critical infrastructure. NVIDIA is their partner to build these foundational deployments, at scale.",
+      "text": "In the coming years, every company will operate AI factories they built or rent, and every country will build and operate AI factories as part of their critical infrastructure. NVIDIA is their partner to build these foundational deployments, at scale.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 35.72,
+            "t": 506.0,
+            "r": 185.998,
+            "b": 344.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            427
+          ]
+        }
+      ],
+      "orig": "This year, for the first time, NVIDIA began manufacturing AI chips and supercomputers in the United States. In partnership with TSMC, Foxconn, Wistron, Amkor, and SPIL, we secured over a million square feet of advanced manufacturing space across Arizona and Texas. These facilities will produce Blackwell chips and assemble full AI systems-bringing AI infrastructure closer to the industries and institutions that depend on it.",
+      "text": "This year, for the first time, NVIDIA began manufacturing AI chips and supercomputers in the United States. In partnership with TSMC, Foxconn, Wistron, Amkor, and SPIL, we secured over a million square feet of advanced manufacturing space across Arizona and Texas. These facilities will produce Blackwell chips and assemble full AI systems-bringing AI infrastructure closer to the industries and institutions that depend on it.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 36.18,
+            "t": 328.0,
+            "r": 186.295,
+            "b": 250.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "Within the next four years, we expect up to half a trillion dollars of AI infrastructure to be built on U.S. soilstrengthening supply chains, creating new jobs, and accelerating our nation's leadership in advanced compute.",
+      "text": "Within the next four years, we expect up to half a trillion dollars of AI infrastructure to be built on U.S. soilstrengthening supply chains, creating new jobs, and accelerating our nation's leadership in advanced compute.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 36.284,
+            "t": 231.10000000000002,
+            "r": 144.111,
+            "b": 208.27999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "From Perception to Physical Intelligence",
+      "text": "From Perception to Physical Intelligence",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 35.945,
+            "t": 199.0,
+            "r": 184.51,
+            "b": 93.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "A decade ago, AI was in its infancy. In 2012, AlexNet ignited the deep learning revolution, demonstrating that GPUs could train neural networks with superhuman accuracy. What began with pattern recognition quickly evolved into machines that could see, hear, and understand.",
+      "text": "A decade ago, AI was in its infancy. In 2012, AlexNet ignited the deep learning revolution, demonstrating that GPUs could train neural networks with superhuman accuracy. What began with pattern recognition quickly evolved into machines that could see, hear, and understand.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 36.348,
+            "t": 77.0,
+            "r": 174.442,
+            "b": 55.847999999999956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        },
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 205.425,
+            "t": 738.0,
+            "r": 350.748,
+            "b": 702.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            65,
+            152
+          ]
+        }
+      ],
+      "orig": "Perception AI enabled computers to understand the world-powering breakthroughs in speech recognition, medical imaging, and personalized recommendations.",
+      "text": "Perception AI enabled computers to understand the world-powering breakthroughs in speech recognition, medical imaging, and personalized recommendations.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 204.72,
+            "t": 686.0,
+            "r": 333.698,
+            "b": 594.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Then came generative AI: AI that creates new content. From text and images to code and proteins, generative AI is a new computing model, shifting from processing data and retrieving information to generating original content.",
+      "text": "Then came generative AI: AI that creates new content. From text and images to code and proteins, generative AI is a new computing model, shifting from processing data and retrieving information to generating original content.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 204.945,
+            "t": 578.0,
+            "r": 363.931,
+            "b": 486.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "Now we're entering the era of agentic AI; AI that can analyze, reason, plan, and use tools to solve problems. These intelligent systems act as digital teammates, automating workflows, accelerating development, and assisting in everything from customer service to healthcare.",
+      "text": "Now we're entering the era of agentic AI; AI that can analyze, reason, plan, and use tools to solve problems. These intelligent systems act as digital teammates, automating workflows, accelerating development, and assisting in everything from customer service to healthcare.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 205.172,
+            "t": 470.0,
+            "r": 359.541,
+            "b": 406.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Our Nemotron models, purpose-built for reasoning and deployed as NIMs, along with our tools for building custom agents, make it easy for any company to create, train, and deploy agentic AI.",
+      "text": "Our Nemotron models, purpose-built for reasoning and deployed as NIMs, along with our tools for building custom agents, make it easy for any company to create, train, and deploy agentic AI.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 205.172,
+            "t": 390.0,
+            "r": 357.528,
+            "b": 312.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "Next is physical AI-intelligent systems that operate in the real world. From autonomous machines in warehouses to robotic assistants in hospitals and self-driving cars, physical AI is built to work safely alongside us.",
+      "text": "Next is physical AI-intelligent systems that operate in the real world. From autonomous machines in warehouses to robotic assistants in hospitals and self-driving cars, physical AI is built to work safely alongside us.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 204.626,
+            "t": 293.1,
+            "r": 306.359,
+            "b": 270.28,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "From One to Three AI Scaling Laws",
+      "text": "From One to Three AI Scaling Laws",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 204.945,
+            "t": 261.0,
+            "r": 341.256,
+            "b": 225.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "AI is now governed by three scaling laws-each demonstrating more compute leads to smarter AI:",
+      "text": "AI is now governed by three scaling laws-each demonstrating more compute leads to smarter AI:",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "cref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 204.555,
+            "t": 209.0,
+            "r": 350.53,
+            "b": 159.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "1. Pre-Training Scaling: The original law: more data, larger models, and more compute produce more capable systems. This remains foundational.",
+      "text": "1. Pre-Training Scaling: The original law: more data, larger models, and more compute produce more capable systems. This remains foundational.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "cref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 204.945,
+            "t": 143.0,
+            "r": 363.392,
+            "b": 51.847999999999956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "2. Post-Training Scaling: Models continue to improve after initial training. Fine-tuning, reinforcement learning, human feedback, and synthetic data generation drive exponential refinement. At scale, post-training can be even more compute-intensive than pre-training.",
+      "text": "2. Post-Training Scaling: Models continue to improve after initial training. Fine-tuning, reinforcement learning, human feedback, and synthetic data generation drive exponential refinement. At scale, post-training can be even more compute-intensive than pre-training.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 374.338,
+            "t": 738.0,
+            "r": 507.042,
+            "b": 730.858,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "3. Inference (Test-Time) Scaling:",
+      "text": "3. Inference (Test-Time) Scaling:",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 373.945,
+            "t": 724.0,
+            "r": 530.393,
+            "b": 618.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "Inference is no longer a one-shot process, it's real-time reasoning. Models dynamically allocate compute to think through complex tasks, explore alternatives, and plan actions. Agentic AI depends on this capability. Reasoning or 'thinking' can require 100x more compute than one-shot inference.",
+      "text": "Inference is no longer a one-shot process, it's real-time reasoning. Models dynamically allocate compute to think through complex tasks, explore alternatives, and plan actions. Agentic AI depends on this capability. Reasoning or 'thinking' can require 100x more compute than one-shot inference.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 374.091,
+            "t": 602.0,
+            "r": 525.211,
+            "b": 538.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "With hundreds of millions of users engaging AI, and agentic AI systems operating continuously in the background, inference has become the most compute-intensive phase of AI.",
+      "text": "With hundreds of millions of users engaging AI, and agentic AI systems operating continuously in the background, inference has become the most compute-intensive phase of AI.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 374.172,
+            "t": 522.0,
+            "r": 512.019,
+            "b": 430.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "Every interaction with a computer will trigger AI inference. And as agentic AI begins preempting tasks and responding to complex requests, inference workloads will scale dramatically-driving massive deployments of AI factories.",
+      "text": "Every interaction with a computer will trigger AI inference. And as agentic AI begins preempting tasks and responding to complex requests, inference workloads will scale dramatically-driving massive deployments of AI factories.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 374.284,
+            "t": 411.1,
+            "r": 456.211,
+            "b": 401.28,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Enter Blackwell",
+      "text": "Enter Blackwell",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 373.945,
+            "t": 392.0,
+            "r": 522.634,
+            "b": 230.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            435
+          ]
+        }
+      ],
+      "orig": "Blackwell isn't just faster. It's the first architecture purpose-built for every stage of AI, from training to reasoning at scale. With FP4 precision, longcontext processing, and dynamic compute allocation, it makes testtime scaling real time as well as energy and cost efficient. Now in full production, Blackwell is NVIDIA's fastest product ramp ever-powering AI infrastructure across hyperscalers, enterprises, and sovereign clouds.",
+      "text": "Blackwell isn't just faster. It's the first architecture purpose-built for every stage of AI, from training to reasoning at scale. With FP4 precision, longcontext processing, and dynamic compute allocation, it makes testtime scaling real time as well as energy and cost efficient. Now in full production, Blackwell is NVIDIA's fastest product ramp ever-powering AI infrastructure across hyperscalers, enterprises, and sovereign clouds.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 373.48,
+            "t": 214.0,
+            "r": 525.253,
+            "b": 108.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "At its core is the NVIDIA GB200 NVL72: 72 GPUs, 36 Grace CPUs, unified by NVLink, Spectrum-X Ethernet, and liquid or air cooling. It delivers up to 30x faster inference for trillionparameter models like GPT-4 or Grok3-at the lowest total cost per watt, per rack, and per dollar invested.",
+      "text": "At its core is the NVIDIA GB200 NVL72: 72 GPUs, 36 Grace CPUs, unified by NVLink, Spectrum-X Ethernet, and liquid or air cooling. It delivers up to 30x faster inference for trillionparameter models like GPT-4 or Grok3-at the lowest total cost per watt, per rack, and per dollar invested.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 656.626,
+            "t": 738.0,
+            "r": 791.789,
+            "b": 715.18,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "A Full-Stack Platform for Scaling Intelligence",
+      "text": "A Full-Stack Platform for Scaling Intelligence",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 656.945,
+            "t": 705.9,
+            "r": 785.798,
+            "b": 656.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Blackwell is more than silicon. Its supporting technologies are foundational to the next wave of AI factories:",
+      "text": "Blackwell is more than silicon. Its supporting technologies are foundational to the next wave of AI factories:",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "cref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 657.163,
+            "t": 639.9,
+            "r": 806.374,
+            "b": 590.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "› NVLink 5 and NVSwitch connect 72 Blackwell GPUs into a massive compute resource enabling exascale performance for AI factories.",
+      "text": "› NVLink 5 and NVSwitch connect 72 Blackwell GPUs into a massive compute resource enabling exascale performance for AI factories.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "cref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 657.163,
+            "t": 579.9,
+            "r": 792.333,
+            "b": 530.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "› Spectrum-X extends networking capabilities to support scaleout AI factories with hundreds of thousands of GPUs.",
+      "text": "› Spectrum-X extends networking capabilities to support scaleout AI factories with hundreds of thousands of GPUs.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "cref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 657.163,
+            "t": 519.9,
+            "r": 799.605,
+            "b": 470.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "› Silicon photonics unlocks efficient multi-rack GPU scaling-laying the foundation for ultra-large-scale AI factories with millions of GPUs.",
+      "text": "› Silicon photonics unlocks efficient multi-rack GPU scaling-laying the foundation for ultra-large-scale AI factories with millions of GPUs.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 656.72,
+            "t": 459.9,
+            "r": 795.06,
+            "b": 424.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "These advances make Blackwell the compute engine behind AI's next industrial phase.",
+      "text": "These advances make Blackwell the compute engine behind AI's next industrial phase.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 656.747,
+            "t": 405.0,
+            "r": 777.68,
+            "b": 382.18,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "The Operating System of AI Factories",
+      "text": "The Operating System of AI Factories",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 656.945,
+            "t": 372.9,
+            "r": 804.846,
+            "b": 295.748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        },
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 826.234,
+            "t": 738.0,
+            "r": 978.323,
+            "b": 688.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            205,
+            340
+          ]
+        }
+      ],
+      "orig": "Announced at GTC, NVIDIA Dynamo is the inference operating system of the AI factory. Dynamo smartly schedules incoming queries and orchestrates compute resources to minimize response time while maximizing factory throughput. In DeepSeek-R1, Dynamo boosted inference throughput by 30x, cutting the cost of longcontext reasoning dramatically.",
+      "text": "Announced at GTC, NVIDIA Dynamo is the inference operating system of the AI factory. Dynamo smartly schedules incoming queries and orchestrates compute resources to minimize response time while maximizing factory throughput. In DeepSeek-R1, Dynamo boosted inference throughput by 30x, cutting the cost of longcontext reasoning dramatically.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 825.72,
+            "t": 672.0,
+            "r": 983.595,
+            "b": 608.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "The world's top cloud providersAmazon, Microsoft, Google, and Oracle-have increased their investment in Blackwell, with early orders already exceeding Hopper's peak volumes.",
+      "text": "The world's top cloud providersAmazon, Microsoft, Google, and Oracle-have increased their investment in Blackwell, with early orders already exceeding Hopper's peak volumes.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 825.995,
+            "t": 589.1,
+            "r": 949.957,
+            "b": 566.28,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "What's Next: Blackwell Ultra and Rubin",
+      "text": "What's Next: Blackwell Ultra and Rubin",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 826.172,
+            "t": 557.0,
+            "r": 979.687,
+            "b": 451.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "Later this year, Blackwell Ultra arrivesboosting memory bandwidth, energy efficiency, and long-context support for agentic and multimodal models. It's purpose-built for real-time planning, decision-making, and AI-native applications. Compared to Hopper, it delivers up to 50x more AI factory value.",
+      "text": "Later this year, Blackwell Ultra arrivesboosting memory bandwidth, energy efficiency, and long-context support for agentic and multimodal models. It's purpose-built for real-time planning, decision-making, and AI-native applications. Compared to Hopper, it delivers up to 50x more AI factory value.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 826.172,
+            "t": 435.0,
+            "r": 978.817,
+            "b": 287.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            387
+          ]
+        }
+      ],
+      "orig": "Rubin, our next-generation platform, is built for a world defined by trillionparameter agentic AI models. Blackwell today. Blackwell Ultra tomorrow. Rubin on the horizon. And Feynman beyond. Each generation pushes technology to the limits of physics, increasing AI factory throughput while reducing cost per token generated. And every generation is architecturally compatible, preserving",
+      "text": "Rubin, our next-generation platform, is built for a world defined by trillionparameter agentic AI models. Blackwell today. Blackwell Ultra tomorrow. Rubin on the horizon. And Feynman beyond. Each generation pushes technology to the limits of physics, increasing AI factory throughput while reducing cost per token generated. And every generation is architecturally compatible, preserving",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.348,
+            "t": 738.0,
+            "r": 1139.847,
+            "b": 688.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "the massive software investments made by the global ecosystem of AI researchers and software developers building on the NVIDIA platform.",
+      "text": "the massive software investments made by the global ecosystem of AI researchers and software developers building on the NVIDIA platform.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.283,
+            "t": 672.0,
+            "r": 1128.049,
+            "b": 650.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "NVIDIA is the engine powering the world's AI infrastructure.",
+      "text": "NVIDIA is the engine powering the world's AI infrastructure.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.172,
+            "t": 634.0,
+            "r": 1153.243,
+            "b": 570.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "By providing a multi-year view, we enable the world's vast supply chain-upstream and downstream-to prepare, align, and innovate alongside NVIDIA as we push technology to the limits of physics.",
+      "text": "By providing a multi-year view, we enable the world's vast supply chain-upstream and downstream-to prepare, align, and innovate alongside NVIDIA as we push technology to the limits of physics.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.078,
+            "t": 551.1,
+            "r": 1105.597,
+            "b": 528.28,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "CUDA-X Accelerates Industries",
+      "text": "CUDA-X Accelerates Industries",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 994.72,
+            "t": 519.0,
+            "r": 1148.068,
+            "b": 357.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            446
+          ]
+        }
+      ],
+      "orig": "The AI revolution is powered as much by software as by hardware. CUDA-X, our suite of over 400 acceleration libraries, bridges NVIDIA GPUs with real-world applications, delivering exponential performance gains across AI, supercomputing, and data analytics. Optimized for highly efficient parallel processing, these libraries unlock up to 200x acceleration, enabling massivescale training, real-time inference, and high-throughput data processing.",
+      "text": "The AI revolution is powered as much by software as by hardware. CUDA-X, our suite of over 400 acceleration libraries, bridges NVIDIA GPUs with real-world applications, delivering exponential performance gains across AI, supercomputing, and data analytics. Optimized for highly efficient parallel processing, these libraries unlock up to 200x acceleration, enabling massivescale training, real-time inference, and high-throughput data processing.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.438,
+            "t": 341.0,
+            "r": 1073.312,
+            "b": 333.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Key libraries include:",
+      "text": "Key libraries include:",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "cref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.163,
+            "t": 317.0,
+            "r": 1141.487,
+            "b": 295.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "› NVIDIA cuDNN is the backbone of deep learning training and inference",
+      "text": "› NVIDIA cuDNN is the backbone of deep learning training and inference",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.163,
+            "t": 285.0,
+            "r": 997.587,
+            "b": 277.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "›",
+      "text": "›",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "cref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 1003.095,
+            "t": 285.0,
+            "r": 1144.099,
+            "b": 263.848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "TensorRT and TensorRT-LLM deliver accelerated inference for LLMs",
+      "text": "TensorRT and TensorRT-LLM deliver accelerated inference for LLMs",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.163,
+            "t": 253.0,
+            "r": 997.587,
+            "b": 245.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "›",
+      "text": "›",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.163,
+            "t": 221.0,
+            "r": 997.587,
+            "b": 213.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "›",
+      "text": "›",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "cref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 1003.172,
+            "t": 253.0,
+            "r": 1137.935,
+            "b": 231.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "RAPIDS accelerates data analytics and ML pipelines by up to 50x",
+      "text": "RAPIDS accelerates data analytics and ML pipelines by up to 50x",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "cref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 1003.18,
+            "t": 221.0,
+            "r": 1143.642,
+            "b": 199.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "NVIDIA Parabricks reduces genome sequencing from days to minutes",
+      "text": "NVIDIA Parabricks reduces genome sequencing from days to minutes",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 995.163,
+            "t": 189.0,
+            "r": 997.587,
+            "b": 181.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "›",
+      "text": "›",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "cref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 1003.234,
+            "t": 189.0,
+            "r": 1147.654,
+            "b": 125.84799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "NVIDIA cuQuantum accelerates quantum circuit simulation and lays the foundation for hybrid computing, where every data center will one day have a QPU alongside a GPU",
+      "text": "NVIDIA cuQuantum accelerates quantum circuit simulation and lays the foundation for hybrid computing, where every data center will one day have a QPU alongside a GPU",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 994.945,
+            "t": 115.0,
+            "r": 1133.258,
+            "b": 51.847999999999956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "Across sectors-from healthcare to finance to robotics-CUDA-X is the software foundation of modern AI computing. With over 6 million developers and 40,000 companies",
+      "text": "Across sectors-from healthcare to finance to robotics-CUDA-X is the software foundation of modern AI computing. With over 6 million developers and 40,000 companies",
+      "formatting": null,
+      "hyperlink": null
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/18"
+        },
+        {
+          "cref": "#/texts/19"
+        },
+        {
+          "cref": "#/texts/20"
+        },
+        {
+          "cref": "#/texts/21"
+        },
+        {
+          "cref": "#/texts/22"
+        },
+        {
+          "cref": "#/texts/23"
+        },
+        {
+          "cref": "#/texts/24"
+        },
+        {
+          "cref": "#/texts/25"
+        },
+        {
+          "cref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 203.76248168945312,
+            "t": 283.1977844238281,
+            "r": 531.5083618164062,
+            "b": 47.76788330078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": null,
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 655.8132934570312,
+            "t": 270.6064147949219,
+            "r": 983.4148559570312,
+            "b": 47.8485107421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": null,
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "11": {
+      "size": {
+        "width": 1188.0,
+        "height": 774.0
+      },
+      "image": null,
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 1188.0,
+        "height": 774.0
+      },
+      "image": null,
+      "page_no": 12
+    }
+  }
+}
