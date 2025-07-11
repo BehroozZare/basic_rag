@@ -4,6 +4,9 @@ offline_models/
 # Ignore vector database directory
 vector_database/
 
+# Ignore the docling checkpoint directory
+docling_checkpoint/
+
 # Python
 __pycache__/
 *.py[cod]
